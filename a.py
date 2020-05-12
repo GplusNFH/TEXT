@@ -1,4 +1,4 @@
-print("你有了解作者")
+print("你有多了解作者")
 start = input("输入5以开始游戏：")
 guess = int(start)
 while guess != 5:
